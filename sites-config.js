@@ -21,7 +21,7 @@
   const SITES = Object.freeze({
     district: Object.freeze({
       SITE_TYPE: 'DISTRICT',
-      SEO_TITLE: "เว็บไซต์ สกร.ระดับอำเภอ",
+      SEO_TITLE: "เว็บไซต์ สกร.ระดับอำเภอตัวอย่าง",
       SEO_DESCRIPTION: "เว็บไซต์ศูนย์ส่งเสริมการเรียนรู้ระดับอำเภอ",
       MAIN_EXEC_URL: 'https://script.google.com/macros/s/AKfycbyGRs8U6Y_90v4vp-b89DbPys6XdK10wNfk6wr9GlOodS56eCmt9mRAQaor06sPXSyw/exec',
       STUDENT_PROFILE_EXEC_URL: 'https://script.google.com/macros/s/AKfycbwSh6yjzEbHKVTQ4yELx6tHZsHY9NSOb53IohWwt84RuCl8hDYxQYJHho-bSNmRbwxB/exec',
@@ -29,7 +29,7 @@
     }),
     tambon1: Object.freeze({
       SITE_TYPE: 'TAMBOL',
-      SEO_TITLE: "เว็บไซต์ ศกร.ระดับตำบล 1",
+      SEO_TITLE: "เว็บไซต์ ศกร.ระดับตำบลตัวอย่าง",
       SEO_DESCRIPTION: "เว็บไซต์ศูนย์การเรียนรู้ระดับตำบล",
       MAIN_EXEC_URL: 'https://script.google.com/macros/s/AKfycby7DjChYbHHeFr2aiPFzORgzGpTcsWmkyo80g7RXc3Vfmn7rV7lN5QhORBAgQpSNRmg/exec',
       STUDENT_PROFILE_EXEC_URL: 'https://script.google.com/macros/s/AKfycbzcvV_8jJAwtWNVAJ3GkmNvpdjuc0eOAiuD67oD0bEJ19Pr5jvNUjdCKotJ0CwgECfjxw/exec',
