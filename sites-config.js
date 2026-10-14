@@ -53,7 +53,7 @@
     }),
     library: Object.freeze({
       SITE_TYPE: 'LIBRARY',
-      SEO_TITLE: "เว็บไซต์ห้องสมุด",
+      SEO_TITLE: "เว็บไซต์ห้องสมุดตัวอย่าง",
       SEO_DESCRIPTION: "เว็บไซต์ห้องสมุดประชาชน",
       MAIN_EXEC_URL: 'https://script.google.com/macros/s/AKfycbwjxamEm78z1EzEg29ZdAOlsicha9sBB_c0wqYaVU8vqm8YBcbk1fxlOeApojTfJkb9/exec',
       CACHE_PREFIX: 'LP360:LIBRARY:MAIN:'
