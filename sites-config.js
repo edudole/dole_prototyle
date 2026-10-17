@@ -13,8 +13,8 @@
   const USER_PAGES = Object.freeze({
     '1': Object.freeze({
       EXEC_URL: 'https://script.google.com/macros/s/AKfycbzcvV_8jJAwtWNVAJ3GkmNvpdjuc0eOAiuD67oD0bEJ19Pr5jvNUjdCKotJ0CwgECfjxw/exec',
-      SEO_TITLE: 'ศกร.ระดับตำบลปารีส',
-      SEO_DESCRIPTION: 'ศกร.ระดับตำบลปารีส'
+      SEO_TITLE: 'ศกร.ระดับตำบลปารีส1',
+      SEO_DESCRIPTION: 'ศกร.ระดับตำบลปารีส1'
     })
   });
 
