@@ -31,7 +31,7 @@
       SITE_TYPE: 'TAMBOL',
       SEO_TITLE: "เว็บไซต์ ศกร.ระดับตำบลตัวอย่าง",
       SEO_DESCRIPTION: "เว็บไซต์ศูนย์การเรียนรู้ระดับตำบล",
-      MAIN_EXEC_URL: 'https://script.google.com/macros/s/AKfycby7DjChYbHHeFr2aiPFzORgzGpTcsWmkyo80g7RXc3Vfmn7rV7lN5QhORBAgQpSNRmg/exec',
+      MAIN_EXEC_URL: 'https://script.google.com/macros/s/AKfycbxY9zSf4sfrlcN1cLne-rdx-i-6wDV0pbN-WfNI-Myc3iOZWFwLxCLv-l2SexPHtdIo/exec',
       STUDENT_PROFILE_EXEC_URL: 'https://script.google.com/macros/s/AKfycbzcvV_8jJAwtWNVAJ3GkmNvpdjuc0eOAiuD67oD0bEJ19Pr5jvNUjdCKotJ0CwgECfjxw/exec',
       CACHE_PREFIX: 'LP360:TAMBOL:TAMBON1:'
     }),
